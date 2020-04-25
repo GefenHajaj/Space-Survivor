@@ -8,6 +8,6 @@ Note:
 I decided to include the exe file in the repository so you don't have to link and compile the project by yourself.
 
 ## A little bit about the project
-I developed this game in 2017 as a final project for school.
+I developed this game in 2017 as a semi-final project for school.
 
 ## have fun!
