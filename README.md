@@ -1,5 +1,6 @@
 # Space-Survivor
 Assembly 80x86 project. A simple space game.
+![Menu](Menu.bmp)
 
 # Reuqierments
 To play this game you have to download DOS-Box emulator and run the exe file from there.
